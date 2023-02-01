@@ -1,0 +1,12 @@
+.warning {
+    border: 2px solid red;
+}
+p {
+    color:red;
+    display: none;
+}
+form{
+
+
+    background-color: #FFB6C1;
+}

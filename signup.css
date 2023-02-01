@@ -1,0 +1,16 @@
+
+.button-color{
+    background-color: #FFB6C1;
+}
+.button-color:hover{
+    color:white;
+}
+
+.warning {
+    border: 2px solid red;
+}
+
+
+form{
+    background-color: #FFB6C1;
+}
